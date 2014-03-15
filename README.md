@@ -115,11 +115,8 @@ and apply following logic:
      ------------------------ ------------ --------------------------------------------
     */
 
-See examples of reading in headers:
-
-* [partial example](http://gist.github.com/155877) in C
-* [from http-parser tests](http://github.com/ry/http-parser/blob/37a0ff8928fb0d83cec0d0d8909c5a4abcd221af/test.c#L403) in C
-* [from Node library](http://github.com/ry/node/blob/842eaf446d2fdcb33b296c67c911c32a0dabc747/src/http.js#L284) in Javascript
+See http://gist.github.com/155877 for a partial example of reading in
+headers.
 
 Releases
 --------
